@@ -1,4 +1,6 @@
-## @sevlatt
+## @alvessnl
+
+### I'm currently a technical course
 
 <!--
 **pedroca46/pedroca46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
